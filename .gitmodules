@@ -1,0 +1,3 @@
+[submodule "lib/Arduino-MCP492X"]
+	path = lib/Arduino-MCP492X
+	url = https://github.com/20khzdesign/Arduino-MCP492X
